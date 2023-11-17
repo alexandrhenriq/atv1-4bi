@@ -1,5 +1,5 @@
 .ts {
-    width: 200px;
+    width: 120px;
     text-align: center;
     height: 50px;
     margin-top: 25px;
@@ -8,7 +8,7 @@
     border: solid 5px rgb(24, 133, 42)
 }
 .fearless {
-    width: 190px;
+    width: 120px;
     text-align: center;
     height: 50px;
     margin-top: 25px;
@@ -18,7 +18,7 @@
 }
 
 .sn {
-    width: 180px;
+    width: 120px;
     text-align: center;
     height: 50px;
     margin-top: 25px;
@@ -28,7 +28,7 @@
 }
 
 .red {
-    width: 170px;
+    width: 120px;
     text-align: center;
     height: 50px;
     margin-top: 25px;
@@ -38,17 +38,18 @@
 }
 
 .nen {
-    width: 160px;
+    width: 120px;
     text-align: center;
     height: 50px;
     margin-top: 25px;
     padding: 20px;
     background-color: rgb(89, 182, 236);
-    border: solid 5px rgb(17, 139, 221)
+    border: solid 5px rgb(17, 139, 221);
+    font-family: ;
 }
 
 .rep {
-    width: 150px;
+    width: 120px;
     text-align: center;
     height: 50px;
     margin-top: 25px;
@@ -58,7 +59,7 @@
 }
 
 .lover {
-    width: 140px;
+    width: 120px;
     text-align: center;
     height: 50px;
     margin-top: 25px;
@@ -68,7 +69,7 @@
 }
 
 .folklore {
-    width: 130px;
+    width: 120px;
     text-align: center;
     height: 50px;
     margin-top: 25px;
@@ -88,11 +89,19 @@
 }
 
 .midnights {
-    width: 110px;
+    width: 120px;
     text-align: center;
     height: 50px;
     margin-top: 25px;
     padding: 20px;
     background-color: rgb(53, 53, 226);
     border: solid 5px darkblue;
+}
+
+.albuns {
+    display: flex;
+}
+
+.imgresumots {
+    margin-top: 20px;
 }
