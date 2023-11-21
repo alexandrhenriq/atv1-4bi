@@ -1,107 +1,142 @@
+a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .ts {
     width: 120px;
     text-align: center;
-    height: 50px;
+    height: 100px;
     margin-top: 25px;
     padding: 20px;
     background-color: rgb(115, 150, 20);
-    border: solid 5px rgb(24, 133, 42)
+    border: solid 5px rgb(24, 133, 42);
+    text-decoration: none;
+    color: black;
+    
 }
+
 .fearless {
     width: 120px;
     text-align: center;
-    height: 50px;
+    height: 100px;
     margin-top: 25px;
     padding: 20px;
     background-color: rgb(228, 224, 19);
-    border: solid 5px rgb(172, 148, 15)
+    border: solid 5px rgb(172, 148, 15);
+    text-decoration: none;
+    color: black;
 }
 
 .sn {
     width: 120px;
     text-align: center;
-    height: 50px;
+    height: 100px;
     margin-top: 25px;
     padding: 20px;
     background-color: rgb(150, 20, 150);
-    border: solid 5px rgb(78, 15, 78)
+    border: solid 5px rgb(78, 15, 78);
+    text-decoration: none;
+    color: black;
 }
 
 .red {
     width: 120px;
     text-align: center;
-    height: 50px;
+    height: 100px;
     margin-top: 25px;
     padding: 20px;
     background-color: rgb(214, 15, 15);
-    border: solid 5px rgb(116, 6, 6)
+    border: solid 5px rgb(116, 6, 6);
+    text-decoration: none;
+    color: black;
 }
 
 .nen {
     width: 120px;
     text-align: center;
-    height: 50px;
+    height: 100px;
     margin-top: 25px;
     padding: 20px;
     background-color: rgb(89, 182, 236);
     border: solid 5px rgb(17, 139, 221);
-    font-family: ;
+    text-decoration: none;
+    color: black;
 }
 
-.rep {
+
+.reputation {
     width: 120px;
     text-align: center;
-    height: 50px;
+    height: 100px;
     margin-top: 25px;
     padding: 20px;
     background-color: rgb(39, 37, 37);
-    border: solid 5px black
+    border: solid 5px black;
+    text-decoration: none;
+    color: black;
 }
 
 .lover {
     width: 120px;
     text-align: center;
-    height: 50px;
+    height: 100px;
     margin-top: 25px;
     padding: 20px;
     background-color: rgb(230, 65, 166);
-    border: solid 5px rgb(199, 16, 144)
+    border: solid 5px rgb(199, 16, 144);
+    text-decoration: none;
+    color: black;
 }
 
 .folklore {
     width: 120px;
     text-align: center;
-    height: 50px;
+    height: 100px;
     margin-top: 25px;
     padding: 20px;
     background-color: rgb(105, 102, 105);
-    border: solid 5px rgb(78, 76, 78)
+    border: solid 5px rgb(78, 76, 78);
+    text-decoration: none;
+    color: black;
 }
 
 .evermore {
     width: 120px;
     text-align: center;
-    height: 50px;
+    height: 100px;
     margin-top: 25px;
     padding: 20px;
     background-color: rgb(99, 54, 20);
-    border: solid 5px rgb(66, 41, 20)
+    border: solid 5px rgb(66, 41, 20);
+    text-decoration: none;
+    color: black;
 }
 
 .midnights {
     width: 120px;
     text-align: center;
-    height: 50px;
+    height: 100px;
     margin-top: 25px;
     padding: 20px;
     background-color: rgb(53, 53, 226);
     border: solid 5px darkblue;
+    text-decoration: none;
+    color: black;
 }
 
 .albuns {
     display: flex;
 }
 
+.resumots {
+    background-color: greenyellow;
+}
+
 .imgresumots {
-    margin-top: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
